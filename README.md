@@ -1,1 +1,1 @@
-# https://coderga.github.io/housing/
+https://coderga.github.io/housing/
